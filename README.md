@@ -4,15 +4,15 @@
 
 ### Experimental Results
 
-| Evaluation Metric | FeatureFusion | LearnedFeatureFusion |
-|------------------|----------|----------|
-| Accuracy         | 0.7049   | 0.7705   |
-| Precision        | 0.2857   | 0.3333   |
-| Recall           | 0.3333   | 0.1667   |
-| F1 Score         | 0.3077   | 0.2222   |
-| Specificity      | 0.7959   | 0.9184   |
-| AUC-ROC          | 0.6463   | 0.7381   |
-| AUC-PR           | 0.2481   | 0.3214   |
+| Evaluation Metric | FeatureFusion | LearnedFeatureFusion | Non-image only |
+|------------------|----------|----------|----------|
+| Accuracy         | 0.7049   | 0.7705   | 0.7541   |
+| Precision        | 0.2857   | 0.3333   | 0.3846   |
+| Recall           | 0.3333   | 0.1667   | 0.4167   |
+| F1 Score         | 0.3077   | 0.2222   | 0.4000   |
+| Specificity      | 0.7959   | 0.9184   |          |
+| AUC-ROC          | 0.6463   | 0.7381   |          |
+| AUC-PR           | 0.2481   | 0.3214   |          |
 
 ### Usage
 
