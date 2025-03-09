@@ -13,7 +13,7 @@
 | AUC-ROC          |         | 0.6259   |
 | AUC-PR           |        | 0.3127   |
 
-### Zero-shor Prompt
+### Zero-shot Prompt
 
 ```
 positive_prompt = "during follow-up the patient converted to a hip prosthesis"
