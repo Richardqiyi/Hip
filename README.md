@@ -3,15 +3,15 @@
 
 ### Experimental Results
 
-| Evaluation Metric | zero-shot | 
-|------------------|----------|
-| Accuracy         | 0.7213  | 
-| Precision        | 0.2222  | 
-| Recall           | 0.1667   | 
-| F1 Score         | 0.1905  | 
-| Specificity      | 0.8571   | 
-| AUC-ROC          |         | 
-| AUC-PR           |        | 
+| Evaluation Metric | zero-shot | post-training
+|------------------|----------|----------|
+| Accuracy         | 0.7213  | 0.7541    |
+| Precision        | 0.2222  | 0.3333   |
+| Recall           | 0.1667   | 0.2500  |
+| F1 Score         | 0.1905  | 0.2857   |
+| Specificity      | 0.8571   | 0.8776   |
+| AUC-ROC          |         | 0.6259   |
+| AUC-PR           |        | 0.3127   |
 
 ### Zero-shor Prompt
 
